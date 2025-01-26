@@ -7,7 +7,7 @@ import jakarta.persistence.Table;
 import java.util.Objects;
 
 @Entity
-@Table(name = "tb_BeLonging")
+@Table(name = "tb_belonging")
 public class BeLonging {
 
     @EmbeddedId
